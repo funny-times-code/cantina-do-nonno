@@ -1,0 +1,122 @@
+[
+  {
+    "id": "bruschetta-pomodoro",
+    "nome": "Bruschetta al pomodoro",
+    "nome_pt": "Bruschetta de tomate",
+    "descricao": "Pão de fermentação natural tostado na brasa, coberto com tomate maduro, manjericão fresco e um fio generoso de azeite toscano.",
+    "preco": 38,
+    "categoria": "antipasti",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Bruschetta+al+pomodoro&font=playfair-display"
+  },
+  {
+    "id": "burrata-pomodorini",
+    "nome": "Burrata con pomodorini",
+    "nome_pt": "Burrata com tomatinhos",
+    "descricao": "Uma burrata cremosa que se abre no prato, com tomatinhos confitados e pesto de manjericão. Para dividir, ou não.",
+    "preco": 62,
+    "categoria": "antipasti",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Burrata+con+pomodorini&font=playfair-display"
+  },
+  {
+    "id": "carpaccio-manzo",
+    "nome": "Carpaccio di manzo",
+    "nome_pt": "Carpaccio de carne",
+    "descricao": "Lâminas finíssimas de filé-mignon com rúcula, lascas de parmesão e molho de limão-siciliano.",
+    "preco": 58,
+    "categoria": "antipasti",
+    "vegetariano": false,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Carpaccio+di+manzo&font=playfair-display"
+  },
+  {
+    "id": "pappardelle-cinghiale",
+    "nome": "Pappardelle al ragù di cinghiale",
+    "nome_pt": "Pappardelle ao ragu de javali",
+    "descricao": "Massa fresca larga envolvida num ragu de javali cozido por seis horas. O prato que fez a fama da casa em 1987.",
+    "preco": 89,
+    "categoria": "pasta",
+    "vegetariano": false,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Pappardelle+al+rag%C3%B9+di+cinghiale&font=playfair-display"
+  },
+  {
+    "id": "pici-cacio-pepe",
+    "nome": "Pici cacio e pepe",
+    "nome_pt": "Pici com queijo e pimenta",
+    "descricao": "Massa grossa enrolada à mão, emulsionada com pecorino e pimenta-do-reino moída na hora. Simples e viciante.",
+    "preco": 72,
+    "categoria": "pasta",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Pici+cacio+e+pepe&font=playfair-display"
+  },
+  {
+    "id": "lasagna-nonna",
+    "nome": "Lasagna della nonna",
+    "nome_pt": "Lasanha da nonna",
+    "descricao": "Camadas de massa fresca, ragu de carne, bechamel e parmesão gratinado até dourar as bordas.",
+    "preco": 78,
+    "categoria": "pasta",
+    "vegetariano": false,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Lasagna+della+nonna&font=playfair-display"
+  },
+  {
+    "id": "tagliata-manzo",
+    "nome": "Tagliata di manzo",
+    "nome_pt": "Tagliata de carne",
+    "descricao": "Contrafilé grelhado na brasa, fatiado e servido sobre rúcula com parmesão e redução de balsâmico.",
+    "preco": 95,
+    "categoria": "secondi",
+    "vegetariano": false,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Tagliata+di+manzo&font=playfair-display"
+  },
+  {
+    "id": "pollo-mattone",
+    "nome": "Pollo al mattone",
+    "nome_pt": "Galeto prensado",
+    "descricao": "Galeto prensado na chapa até a pele ficar crocante, com limão-siciliano, alecrim e batatas ao forno.",
+    "preco": 84,
+    "categoria": "secondi",
+    "vegetariano": false,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Pollo+al+mattone&font=playfair-display"
+  },
+  {
+    "id": "melanzane-parmigiana",
+    "nome": "Parmigiana di melanzane",
+    "nome_pt": "Berinjela à parmegiana",
+    "descricao": "Fatias de berinjela em camadas com molho de tomate, mussarela de búfala e manjericão, assadas no forno.",
+    "preco": 68,
+    "categoria": "secondi",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Parmigiana+di+melanzane&font=playfair-display"
+  },
+  {
+    "id": "tiramisu",
+    "nome": "Tiramisù",
+    "nome_pt": "Tiramisu",
+    "descricao": "Biscoitos embebidos em café espresso, creme de mascarpone e cacau. A receita da dona Lúcia, montada todos os dias.",
+    "preco": 36,
+    "categoria": "dolci",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Tiramis%C3%B9&font=playfair-display"
+  },
+  {
+    "id": "panna-cotta",
+    "nome": "Panna cotta ai frutti di bosco",
+    "nome_pt": "Panna cotta com frutas vermelhas",
+    "descricao": "Creme de baunilha delicado que treme no prato, coberto com calda quente de frutas vermelhas.",
+    "preco": 35,
+    "categoria": "dolci",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Panna+cotta+ai+frutti+di+bosco&font=playfair-display"
+  },
+  {
+    "id": "cantucci-vin-santo",
+    "nome": "Cantucci e vin santo",
+    "nome_pt": "Biscoitos de amêndoa com vinho doce",
+    "descricao": "Biscoitos crocantes de amêndoa para mergulhar numa taça de vin santo, do jeito que se faz na Toscana.",
+    "preco": 42,
+    "categoria": "dolci",
+    "vegetariano": true,
+    "foto_url": "https://placehold.co/400x300/EBD3B8/B85042?text=Cantucci+e+vin+santo&font=playfair-display"
+  }
+]

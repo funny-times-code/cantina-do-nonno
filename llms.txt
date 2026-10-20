@@ -1,0 +1,43 @@
+# Cantina del Nonno
+
+> Restaurante italiano de cucina toscana caseira em Pinheiros, São Paulo (SP), fundado em 1987 pelo nonno Giuseppe Bellandi, vindo do Chianti. Massas frescas feitas todas as manhãs, receitas de família e ambiente acolhedor de cantina de bairro.
+
+## O que é
+
+A Cantina del Nonno é uma cantina familiar que serve cozinha da Toscana do jeito que se come em casa. Nasceu em uma casinha de esquina com oito mesas e hoje é tocada pelos filhos e netos de Giuseppe, que seguem o caderno de receitas original. A proposta é tratar cada cliente como convidado de um almoço de família.
+
+## Onde fica
+
+- Endereço: Rua dos Pinheiros, 1500 — Pinheiros, São Paulo, SP, 05422-002, Brasil
+- Bairro: Pinheiros, zona oeste de São Paulo, a poucos minutos do Largo da Batata
+- Telefone: +55 11 3000-1987
+- WhatsApp: +55 11 90000-1987
+
+## Horário de funcionamento
+
+- Terça a domingo: das 12h às 23h
+- Segunda-feira: fechado
+
+## Especialidades
+
+- Pappardelle al ragù di cinghiale (massa fresca com ragu de javali cozido por seis horas), o prato mais tradicional da casa
+- Pici cacio e pepe, massa grossa enrolada à mão
+- Lasagna della nonna e parmigiana di melanzane
+- Burrata con pomodorini e bruschetta al pomodoro como entradas
+- Tiramisù da casa, panna cotta e cantucci com vin santo
+- Opções vegetarianas identificadas no cardápio
+
+## Faixa de preço
+
+Preço moderado ($$). Pratos entre R$ 35 e R$ 95 por pessoa; entradas a partir de R$ 38, massas entre R$ 72 e R$ 89 e sobremesas entre R$ 35 e R$ 42.
+
+## Como reservar
+
+Reservas pelo formulário do site, para grupos de 1 a 12 pessoas e com até 60 dias de antecedência. A equipe confirma pelo WhatsApp em até 1 hora. Também é possível falar diretamente pelo WhatsApp ou pelo telefone.
+
+## Links
+
+- [Site oficial](https://cantinadelnonno.com.br/): história, cardápio, reserva e localização
+- [Cardápio em JSON](https://cantinadelnonno.com.br/cardapio.json): pratos, descrições, preços e categorias
+- [Reserva](https://cantinadelnonno.com.br/#reserva): formulário de reserva de mesa
+- [Localização](https://cantinadelnonno.com.br/#localizacao): mapa e como chegar
