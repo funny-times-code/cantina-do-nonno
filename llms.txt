@@ -37,7 +37,7 @@ Reservas pelo formulário do site, para grupos de 1 a 12 pessoas e com até 60 d
 
 ## Links
 
-- [Site oficial](https://cantinadelnonno.com.br/): história, cardápio, reserva e localização
-- [Cardápio em JSON](https://cantinadelnonno.com.br/cardapio.json): pratos, descrições, preços e categorias
-- [Reserva](https://cantinadelnonno.com.br/#reserva): formulário de reserva de mesa
-- [Localização](https://cantinadelnonno.com.br/#localizacao): mapa e como chegar
+- [Site oficial](https://funny-times-code.github.io/cantina-do-nonno/): história, cardápio, reserva e localização
+- [Cardápio em JSON](https://funny-times-code.github.io/cantina-do-nonno/cardapio.json): pratos, descrições, preços e categorias
+- [Reserva](https://funny-times-code.github.io/cantina-do-nonno/#reserva): formulário de reserva de mesa
+- [Localização](https://funny-times-code.github.io/cantina-do-nonno/#localizacao): mapa e como chegar

@@ -32,4 +32,4 @@ Allow: /
 User-agent: CCBot
 Allow: /
 
-Sitemap: https://cantinadelnonno.com.br/sitemap.xml
+Sitemap: https://funny-times-code.github.io/cantina-do-nonno/sitemap.xml
